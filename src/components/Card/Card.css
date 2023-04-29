@@ -1,0 +1,13 @@
+
+.card{
+    padding: 40px;
+    width: 380px;
+    height: 380px;
+    border: 2px solid;
+    color: #fff;
+    font-size: 25px;
+    line-height: 34px;
+    letter-spacing: -0.006em;
+    text-decoration: overline;
+    text-decoration-color: rgb(138, 133, 133);
+}
